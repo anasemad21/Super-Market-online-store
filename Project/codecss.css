@@ -1,0 +1,29 @@
+#sidebar{height:480px;
+background-color:silver;
+border:2px solid white;
+}
+#content{height:480px;
+background-color:silver;
+border:2px solid white;
+
+}
+#footer{background-color:silver;
+}
+body{background-image: url("photo.gif");
+background-size: cover;
+height: 100%;
+}
+#form{ height: 400px;
+			width: 350px;
+			border: 2px solid white;
+			margin: 0 auto; 
+			margin-top: 100px;
+			background: ;
+			border-radius: 5px;
+				padding: 10px;}
+
+
+
+
+
+	
